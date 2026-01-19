@@ -1,5 +1,5 @@
 # Fraud Detection (Supervised)
-One of the projects from my graduate school. Fraud Detection using Logistic Regression (Supervised)
+One of the assessments from my graduate school. Fraud Detection using Logistic Regression (Supervised)
 
 The objective is demonstrate the ability to create and evaluate supervised models. Data was taken from Kaggle. Two datasets were used, one for each model. The datasets used are as follows:
 
